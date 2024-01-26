@@ -1,5 +1,5 @@
-TEST TASTK
+TEST TASK
 
-*ReactJs
-*Ts
-*Sass
+-ReactJs
+-Ts
+-Sass
