@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Testtask2/static/css/main.2680f2a2.css",
+    "main.js": "/Testtask2/static/js/main.d80568c6.js",
+    "index.html": "/Testtask2/index.html",
+    "static/media/search 1.svg": "/Testtask2/static/media/search 1.d555a35800fec6f7c192.svg",
+    "main.2680f2a2.css.map": "/Testtask2/static/css/main.2680f2a2.css.map",
+    "main.d80568c6.js.map": "/Testtask2/static/js/main.d80568c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2680f2a2.css",
+    "static/js/main.d80568c6.js"
+  ]
+}
